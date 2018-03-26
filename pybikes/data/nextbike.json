@@ -1937,6 +1937,18 @@
                 "country": "HU"
             }
         }
+        {   
+            "domain": "uc",
+            "tag": "nextbike-cardiff",
+            "city_uid": 476,
+            "meta": {
+                "latitude": 51.4822
+                "longitude": -3.18089
+                "city": "Cardiff"
+                "name": "Nextbike Cardiff"
+                "country": "GB"
+            }
+        },
     ],
     "system": "nextbike",
     "class": "Nextbike"
